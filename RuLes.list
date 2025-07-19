@@ -18,7 +18,7 @@ DOMAIN-SUFFIX, alphatvapp.top, Emby
 DOMAIN-SUFFIX, 204cloud.com, DIRECT
 # 月饼
 DOMAIN, a.emby.my, DIRECT
-DOMAIN, uhebs.emby.my, DIRECT
+# DOMAIN, uhebs.emby.my, DIRECT
 # DOMAIN,h6d45.emby.my, 🇺🇸 US01 0.20x
 # DOMAIN,g67e4.emby.my, 🇭🇰 HK01 0.20x
 # DOMAIN,c.emby.my, 🇸🇬 SG01 0.20x
