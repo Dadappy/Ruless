@@ -13,16 +13,11 @@ DOMAIN-SUFFIX, cn2gias.uk, Emby
 # 1111
 DOMAIN-SUFFIX, xmsl.org, Emby
 IP-CIDR, 154.12.52.149/32, Emby
-# Alpha
-DOMAIN-SUFFIX, alphatvapp.top, Emby
-DOMAIN-SUFFIX, 204cloud.com, DIRECT
 # 月饼
 DOMAIN, a.emby.my, DIRECT
-# DOMAIN, uhebs.emby.my, DIRECT
+DOMAIN, uhebs.emby.my, DIRECT
 # DOMAIN,h6d45.emby.my, 🇺🇸 US01 0.20x
 # DOMAIN,g67e4.emby.my, 🇭🇰 HK01 0.20x
-# DOMAIN,c.emby.my, 🇸🇬 SG01 0.20x
-# DOMAIN,d.emby.my, 🇯🇵 JP01 0.20x
 # 映月
 DOMAIN-SUFFIX, 115cdn.de, DIRECT
 # 岚私服
