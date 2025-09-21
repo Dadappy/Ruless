@@ -3,7 +3,7 @@ DOMAIN, sub1.sntp.dev, DIRECT
 DOMAIN-SUFFIX, hwqp2zit2amna.net, DIRECT
 
 # IKUN
-DOMAIN-SUFFIX, diaojinping.de, DIRECT
+# DOMAIN-SUFFIX, diaojinping.de, DIRECT
 # 音海
 DOMAIN-SUFFIX, makifx.com, DIRECT
 
