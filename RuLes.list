@@ -3,7 +3,7 @@ DOMAIN, sub1.sntp.dev, DIRECT
 DOMAIN-SUFFIX, hwqp2zit2amna.net, DIRECT
 
 # IKUN
-# DOMAIN-SUFFIX, diaojinping.de, DIRECT
+# DOMAIN-SUFFIX, music.28.al, DIRECT
 # 音海
 DOMAIN-SUFFIX, makifx.com, DIRECT
 
@@ -14,10 +14,9 @@ DOMAIN-SUFFIX, cn2gias.uk, Emby
 DOMAIN-SUFFIX, xmsl.org, Emby
 IP-CIDR, 154.12.52.149/32, Emby
 # 月饼
-DOMAIN, a.emby.my, DIRECT
+DOMAIN, emby.my, Emby
+DOMAIN, a.emby.my, Emby
 DOMAIN, uhebs.emby.my, DIRECT
-# DOMAIN,h6d45.emby.my, 🇺🇸 US01 0.20x
-# DOMAIN,g67e4.emby.my, 🇭🇰 HK01 0.20x
 # 映月
 DOMAIN-SUFFIX, 115cdn.de, DIRECT
 # 岚私服
