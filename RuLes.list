@@ -10,6 +10,7 @@ DOMAIN-SUFFIX, makifx.com, DIRECT
 # EMBY服
 # 守候
 DOMAIN-SUFFIX, cn2gias.uk, Emby
+DOMAIN-SUFFIX, array2026.com, DIRECT
 # 1111
 DOMAIN-SUFFIX, xmsl.org, Emby
 IP-CIDR, 154.12.52.149/32, Emby
