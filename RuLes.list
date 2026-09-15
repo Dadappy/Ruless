@@ -19,6 +19,7 @@ DOMAIN, emby.my, Emby
 DOMAIN, a.emby.my, Emby
 DOMAIN, uhebs.emby.my, DIRECT
 # 映月
-DOMAIN-SUFFIX, 115cdn.de, DIRECT
+DOMAIN, 115cdn.de, Emby
+DOMAIN, a.115cdn.de, DIRECT
 # 岚私服
 DOMAIN, emby.host, DIRECT
