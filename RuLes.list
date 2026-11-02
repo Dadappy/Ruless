@@ -1,9 +1,6 @@
 # 守候面板
 DOMAIN, sub1.sntp.dev, DIRECT
-# DOMAIN-SUFFIX, hwqp2zit2amna.net, DIRECT
 
-# IKUN
-# DOMAIN-SUFFIX, music.28.al, DIRECT
 # 音海
 DOMAIN-SUFFIX, makifx.com, DIRECT
 
@@ -12,6 +9,15 @@ DOMAIN-SUFFIX, makifx.com, DIRECT
 DOMAIN, std.cn2gias.uk, Emby
 DOMAIN, s2.array2026.cc, Emby
 DOMAIN, s3.array2026.com, Emby
+
+DOMAIN-SUFFIX,sntp.uk,Emby
+DOMAIN-SUFFIX,qzyidc.com,Emby
+DOMAIN-SUFFIX,alibabacloud.com,Emby
+DOMAIN-SUFFIX,eihhu.com,Emby
+DOMAIN-SUFFIX,1a1api.top,Emby
+DOMAIN-SUFFIX,wuyouyun.com,Emby
+
+
 # 1111
 DOMAIN-SUFFIX, xmsl.org, Emby
 IP-CIDR, 154.12.52.149/32, Emby
