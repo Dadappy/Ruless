@@ -17,10 +17,6 @@ HOST-SUFFIX,eihhu.com,Emby
 HOST-SUFFIX,1a1api.top,Emby
 HOST-SUFFIX,wuyouyun.com,Emby
 
-
-# 1111
-HOST-SUFFIX, xmsl.org, Emby
-IP-CIDR, 154.12.52.149/32, Emby
 # 月饼
 HOST-KEYWORD, speedtest, Emby
 HOST, emby.my, Emby
