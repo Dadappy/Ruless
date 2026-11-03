@@ -28,3 +28,4 @@ HOST, uhebs.emby.my, DIRECT
 # 映月
 HOST, 115cdn.de, Emby
 HOST, a.115cdn.de, DIRECT
+HOST-KEYWORD, directstream, DIRECT
