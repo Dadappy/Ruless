@@ -1,29 +1,30 @@
 # 守候面板
-DOMAIN, sub1.sntp.dev, DIRECT
+HOST, sub1.sntp.dev, DIRECT
 
 # 音海
-DOMAIN-SUFFIX, makifx.com, DIRECT
+HOST-SUFFIX, makifx.com, DIRECT
 
 # EMBY服
 # 守候
-DOMAIN, std.cn2gias.uk, Emby
-DOMAIN, s2.array2026.cc, Emby
-DOMAIN, s3.array2026.com, Emby
+HOST, std.cn2gias.uk, Emby
+HOST, s2.array2026.cc, Emby
+HOST, s3.array2026.com, Emby
 
-DOMAIN-SUFFIX,sntp.uk,Emby
-DOMAIN-SUFFIX,qzyidc.com,Emby
-DOMAIN-SUFFIX,alibabacloud.com,Emby
-DOMAIN-SUFFIX,eihhu.com,Emby
-DOMAIN-SUFFIX,1a1api.top,Emby
-DOMAIN-SUFFIX,wuyouyun.com,Emby
+HOST-SUFFIX,sntp.uk,Emby
+HOST-SUFFIX,qzyidc.com,Emby
+HOST-SUFFIX,alibabacloud.com,Emby
+HOST-SUFFIX,eihhu.com,Emby
+HOST-SUFFIX,1a1api.top,Emby
+HOST-SUFFIX,wuyouyun.com,Emby
 
 
 # 1111
-DOMAIN-SUFFIX, xmsl.org, Emby
+HOST-SUFFIX, xmsl.org, Emby
 IP-CIDR, 154.12.52.149/32, Emby
 # 月饼
-DOMAIN, emby.my, Emby
-DOMAIN, uhebs.emby.my, DIRECT
+HOST-KEYWORD, speedtest, Emby
+HOST, emby.my, Emby
+HOST, uhebs.emby.my, DIRECT
 # 映月
-DOMAIN, 115cdn.de, Emby
-DOMAIN, a.115cdn.de, DIRECT
+HOST, 115cdn.de, Emby
+HOST, a.115cdn.de, DIRECT
